@@ -10,3 +10,4 @@ def find_2nd_max(list):
     return sorted(list)[-2]
 
 print(find_2nd_max([2,5,8,4,9])) # 8
+max()
